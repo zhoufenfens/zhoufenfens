@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![image](https://raw.githubusercontent.com/zhoufenfens/enterprise/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/zhoufenfens/zhoufenfens/output/github-contribution-grid-snake.svg)
 
 <!---
 zhoufenfens/zhoufenfens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
