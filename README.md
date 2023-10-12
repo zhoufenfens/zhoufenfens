@@ -1,3 +1,5 @@
+[![generate animation](https://github.com/zhoufenfens/zhoufenfens/actions/workflows/generate-animation.yml/badge.svg?branch=main)](https://github.com/zhoufenfens/zhoufenfens/actions/workflows/generate-animation.yml)
+
 - 👋 Hi, I’m @zhoufenfens
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning cooperation
